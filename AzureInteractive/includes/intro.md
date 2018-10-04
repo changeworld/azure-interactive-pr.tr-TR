@@ -2,19 +2,19 @@
 title: include dosyası
 description: include dosyası
 services: functions
-author: tdykstra
+author: ggailey777
 manager: jeconnoc
 ms.service: multiple
 ms.topic: include
 ms.date: 06/21/2018
-ms.author: tdykstra
+ms.author: glenga
 ms.custom: include file
-ms.openlocfilehash: d651fd3d03f2678d625e60f9ab1e9f59e623964f
-ms.sourcegitcommit: e721422a57e6deb95245135fd9f4f5677c344d93
+ms.openlocfilehash: 0f86f2698a3a0c1e20272c335b63faf03b4b92d6
+ms.sourcegitcommit: 81587470a181e314242c7a97cd0f91c82d4fe232
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "40079682"
+ms.lasthandoff: 10/01/2018
+ms.locfileid: "47460033"
 ---
 Bu öğreticide HTML tabanlı kullanıcı arabirimine sahip basit bir web uygulaması dağıtacaksınız. Sunucusuz arka uç, uygulamanın görüntüleri yüklemesini ve otomatik olarak bunları açıklayan resim yazıları almasını sağlar.
 
