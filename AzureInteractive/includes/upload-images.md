@@ -142,7 +142,7 @@ Azure portal, işlevleri oluşturma ve düzenlemeye ek olarak test etmek için d
 
 1. **Http yöntemi** değerini **GET** olarak değiştirin.
 
-1. **Sorgu** bölümünde *Parametre ekle*'ye tıklayın ve aşağıdaki parametreyi ekleyin:
+1. **Sorgu** bölümünde *Parametre ekle*\*'ye tıklayın ve aşağıdaki parametreyi ekleyin:
 
     | ad      |  değer   | 
     | --- | --- |
