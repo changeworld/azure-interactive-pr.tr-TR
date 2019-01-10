@@ -49,7 +49,7 @@ Bu öğreticideki işlev uygulaması için İşlevler çalışma zamanının 1.x
 Aşağıdaki Azure CLI komutunda <app_name>, işlev uygulamanızın adıdır.
 
 ```azurecli
-az functionapp config appsettings set --name <function app name> --g first-serverless-app --settings FUNCTIONS_EXTENSION_VERSION=~1
+az functionapp config appsettings set --name <function app name> -g first-serverless-app --settings FUNCTIONS_EXTENSION_VERSION=~1
 ```
 
 ## <a name="create-an-http-triggered-serverless-function"></a>HTTP ile tetiklenen bir sunucusuz işlev oluşturma
